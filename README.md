@@ -1,5 +1,7 @@
 # Implementasi Linear Linked List
 
+Tugas [Mata Kuliah Struktur Data](https://struktur-data.github.io/syllabus/).
+
 ## Bentuk Tugas
 
 Membangun Algoritma dan Mengimplementasikan _Linear Linked List_ dalam Bahasa C++
